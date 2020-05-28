@@ -14,8 +14,11 @@
 * Security - how does CiviCRM protect user data?
 
 **Next steps**
+
 Once intial assessment is complete:
-* deploy initial test instance and configure for Flux operations.
+* deploy initial test instance (Drupal instance on flux server- required for full extensions for campaigns)
+* configure for Flux operations
+* test all functionality with internal stakeholders as contacts/members
 
 
 This [google sheet](https://docs.google.com/spreadsheets/d/1oqJE9bJ6E4iFdxkCz2PyVTbD-qcBl0CuZH0TclOPXD4/edit?usp=sharing) will be the initial workspace for tracking the things mentioned above. Comment on the google sheet if you want to contribute  in these initial phases.

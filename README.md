@@ -13,3 +13,4 @@
 * Integrations - how will FCCRM integrate? e.g. membership exports, etc
 * Security - how does CiviCRM protect user data?
 
+Comment in this [google sheet](https://docs.google.com/spreadsheets/d/1oqJE9bJ6E4iFdxkCz2PyVTbD-qcBl0CuZH0TclOPXD4/edit?usp=sharing) if you want to assist with this project.

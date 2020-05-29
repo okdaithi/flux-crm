@@ -21,4 +21,4 @@ Once intial assessment is complete:
 * test all functionality with internal stakeholders as contacts/members
 
 
-This [google sheet](https://docs.google.com/spreadsheets/d/1oqJE9bJ6E4iFdxkCz2PyVTbD-qcBl0CuZH0TclOPXD4/edit?usp=sharing) will be the initial workspace for tracking the things mentioned above. Comment on the google sheet if you want to contribute  in these initial phases.
+This [document](https://drive.google.com/open?id=17DoB9eWtyaO4BUnxo3jD1XfWoP5FDHYICSfGI0OcQ7U) and this [google sheet](https://docs.google.com/spreadsheets/d/1oqJE9bJ6E4iFdxkCz2PyVTbD-qcBl0CuZH0TclOPXD4/edit?usp=sharing) will be the initial workspace for tracking the things mentioned above. Comment on the google sheet if you want to contribute  in these initial phases.

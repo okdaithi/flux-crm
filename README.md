@@ -1,4 +1,10 @@
-# FluxCiviCRM
+# FluxCRM
+
+**Update** Assessing SuiteCRM as aa more viable option w.r.t. configuration.
+
+See doc for reference:
+https://docs.google.com/document/d/1ZwZk4i5WShJjoRv-mMEx-gsCvrC-F2CqWpFILvv8Yiw/edit?usp=sharing
+
 
 **Objective:** Test [CiviCRM](https://docs.civicrm.org/user/en/latest/) as a CRM solution for all for Flux's major organisation CRM tasks.
 
